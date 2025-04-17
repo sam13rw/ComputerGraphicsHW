@@ -1,6 +1,7 @@
 """
-Modified on Feb 20 2020
+Modified on Mar 2025
 @author: lbg@dongseo.ac.kr
+@modified: vsamueldavid18@gmail.com
 """
 
 import pygame
