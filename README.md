@@ -9,3 +9,5 @@
 [![Homework-4](https://img.youtube.com/vi/xvbl1MGSo44/0.jpg)](https://www.youtube.com/watch?v=xvbl1MGSo44)
 ## Homework - 5:
 [![Homework-5](https://img.youtube.com/vi/dgyhGHd0KlQ/0.jpg)](https://www.youtube.com/watch?v=dgyhGHd0KlQ)
+## Homework - 6:
+[![Homework-6](https://img.youtube.com/vi/cl2J13tibos/0.jpg)](https://www.youtube.com/watch?v=cl2J13tibos)
